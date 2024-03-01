@@ -7,7 +7,7 @@
   <a href="https://t.me/d_8_5" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-%40d__8__5-blue" alt="Telegram" />
   </a>
-  <a href="[https://www.youtube.com/c/xTANSHx](https://www.youtube.com/@XTANSHX)" target="_blank" rel="noreferrer">
+  <a href="[[https://www.youtube.com/@XTANSHX] target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/YouTube-xTANSHx-red" alt="YouTube" />
   </a>
 </p>
