@@ -3,6 +3,16 @@
 <h3 align="center">Python Developer</h3>
 <img align="right" alt="Coding" width="400" src="">
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://t.me/d_8_5" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%40d__8__5-blue" alt="Telegram" />
+  </a>
+  <a href="https://www.youtube.com/c/xTANSHx" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-xTANSHx-red" alt="YouTube" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
