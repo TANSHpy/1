@@ -4,11 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/d_8_5" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-%40d__8__5-blue" alt="Telegram" />
+  <a href="https://t.me/iiiiiiiii8" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%404iiiiiiiii8-blue" alt="Telegram" />
   </a>
   <a href="https://t.me/Uyuyuao" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-Uyuyuao-blue" alt="Telegram Channel" />
+    <img src="https://img.shields.io/badge/Telegram-iiiiiiiiiiiiiiii4-blue" alt="Telegram Channel" />
   </a>
   <a href="[[https://www.youtube.com/@XTANSHX]" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/YouTube-xTANSHx-red" alt="YouTube" />
